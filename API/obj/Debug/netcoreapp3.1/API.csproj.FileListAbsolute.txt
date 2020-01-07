@@ -72,3 +72,5 @@ C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netco
 C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mateusz.leki\Documents\Learning\Dotnet\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
