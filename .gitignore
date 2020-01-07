@@ -1,20 +1,7 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
-# Created by https://www.gitignore.io/api/windows,visualstudiocode,dotnetcore,dotsettings
-# Edit at https://www.gitignore.io/?templates=windows,visualstudiocode,dotnetcore,dotsettings
-
-### DotnetCore ###
-# .NET Core build folders
-/bin
-/obj
-
-# Common node modules locations
-/node_modules
-/wwwroot/node_modules
-
-
-### DotSettings ###
-*.DotSettings
+# Created by https://www.gitignore.io/api/windows,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=windows,visualstudiocode
 
 ### VisualStudioCode ###
 .vscode/*
@@ -53,33 +40,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/windows,visualstudiocode,dotnetcore,dotsettings
+# End of https://www.gitignore.io/api/windows,visualstudiocode
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-API/bin/Debug/netcoreapp3.1/API.dll
-API/bin/Debug/netcoreapp3.1/API.pdb
-API/bin/Debug/netcoreapp3.1/Application.dll
-API/bin/Debug/netcoreapp3.1/Application.pdb
-API/bin/Debug/netcoreapp3.1/Infrastructure.dll
-API/bin/Debug/netcoreapp3.1/Infrastructure.pdb
-API/obj/Debug/netcoreapp3.1/API.assets.cache
-API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
-API/obj/Debug/netcoreapp3.1/API.dll
-API/obj/Debug/netcoreapp3.1/API.pdb
-Application/bin/Debug/netcoreapp3.1/Application.dll
-Application/bin/Debug/netcoreapp3.1/Application.pdb
-Application/obj/Debug/netcoreapp3.1/Application.assets.cache
-Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache
-Application/obj/Debug/netcoreapp3.1/Application.dll
-Application/obj/Debug/netcoreapp3.1/Application.pdb
-Infrastructure/bin/Debug/netcoreapp3.1/Application.dll
-Infrastructure/bin/Debug/netcoreapp3.1/Application.pdb
-Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
-Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
-Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.assets.cache
-Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache
-Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
-Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb
-Persistence/obj/Debug/netcoreapp3.1/Persistence.assets.cache
-Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
